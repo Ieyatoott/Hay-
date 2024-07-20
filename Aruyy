@@ -1,0 +1,10 @@
+def birthday_message(Jeorge Mylabs, 23):
+    message = f"Happy Birthday, {Jeorge Mylabs}!\n"
+    message += f"Congratulations on turning {23} years old!\n"
+    message += "May your day be filled with joy, love, and celebration."
+    return message
+
+# Example usage
+name = "Alice"
+age = 30
+print(birthday_message(name, age))
